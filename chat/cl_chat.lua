@@ -370,7 +370,7 @@ CreateThread(function()
   SetNuiFocus(false, false)
 
   while true do
-    local waitTime = 150
+    local waitTime = 67
 
     if not chatInputActive then
       if IsControlPressed(0, 245) then -- INPUT_MP_TEXT_CHAT_ALL
