@@ -4,6 +4,7 @@ QBCore chat design
 
 
 ## Major changes
+<img width="353" height="19" alt="{1C570B0C-89C9-4385-99C8-66EE0BD820A2}" src="https://github.com/user-attachments/assets/42755ba6-d3af-48d7-b61e-75c7e28887b8" />
 
 ### Moved and saved chat position
 
